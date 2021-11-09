@@ -1,5 +1,4 @@
 package ch04;
-package ch04;
 
 import java.awt.Container;
 import java.awt.FlowLayout;
