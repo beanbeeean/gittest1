@@ -12,31 +12,30 @@ public class Wrapper_Ex3 {
 		byte b = Byte.parseByte(str);
 		int i = Integer.parseInt(str);
 		short s = Short.parseShort(str);
-		long l = Long.parseLong(str);
-
+		long l = Long.parseLong(str); // ì•ˆë…•
 		//
 		float f = Float.parseFloat(str2);
 		Double d = Double.parseDouble(str2);
 		boolean bool = Boolean.parseBoolean(str3);
 		System.out.println(bool);
 		if (Boolean.parseBoolean(str3)) {
-			System.out.println("boolean ÇüÀ¸·Î º¯°æ ¿Ï·á!!");
+			System.out.println("boolean ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ï·ï¿½!!");
 		}
 
-		System.out.println("¹®ÀÚ¿­ byte °ª º¯È¯ : " + b);
-		System.out.println("¹®ÀÚ¿­ int °ª º¯È¯ : " + i);
-		System.out.println("¹®ÀÚ¿­ short °ª º¯È¯ : " + s);
+		System.out.println("ï¿½ï¿½ï¿½Ú¿ï¿½ byte ï¿½ï¿½ ï¿½ï¿½È¯ : " + b);
+		System.out.println("ï¿½ï¿½ï¿½Ú¿ï¿½ int ï¿½ï¿½ ï¿½ï¿½È¯ : " + i);
+		System.out.println("ï¿½ï¿½ï¿½Ú¿ï¿½ short ï¿½ï¿½ ï¿½ï¿½È¯ : " + s);
 
 		System.out.println(b);
-		// ¹®Á¦ 1
+		// ï¿½ï¿½ï¿½ï¿½ 1
 
 		String str10 = "1001";
 		String str11 = "2001";
 
-		// str10 °ú str11À» µ¡¼À ¿¬»ê
-		// °á°ú°ª±îÁö Ãâ·Â
-		// str10 °ú str11À» °ö¼À ¿¬»ê
-		// °á°ú°ª±îÁö Ãâ·Â
+		// str10 ï¿½ï¿½ str11ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+		// str10 ï¿½ï¿½ str11ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 
 		int n = Integer.parseInt(str10);
 		int m = Integer.parseInt(str11);
@@ -46,5 +45,6 @@ public class Wrapper_Ex3 {
 		System.out.println(x);
 		System.out.println(y);
 
+		// í•œê¸€ ê¹¨ì§ í™•ì¸ì½”ë“œ!
 	}
 }
