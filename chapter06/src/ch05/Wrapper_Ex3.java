@@ -52,6 +52,9 @@ public class Wrapper_Ex3 {
 //		System.out.println(b);
 		
 		
+		
+		
+		
 		// 한글깨짐 확인 코드 !!!!!!
 		
 		
