@@ -33,7 +33,7 @@ public class Wrapper_Ex3 {
 		
 		// str10 과 str11 을 덧셈 연산 
 		// 결과값 까지 출력 
-		// str10 과 str11 을 곱셈 연산
+		// str10 과 str11 을 곱셈 연산gg
 		// 결과값 까지 출력 
 		
 		String str10 ="1001";
