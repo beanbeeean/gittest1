@@ -91,13 +91,13 @@ public class TelManagement {
 //		search(map);
 
 		// 실행의 흐름 만들어 보기
-		
+
 		int menu;
 		boolean flag = true;
 		System.out.println("============");
 		System.out.println("전화번호 관리 프로그램");
 		System.out.println("============");
-		
+
 		// 스캐너 이용해서
 
 		Scanner sc = new Scanner(System.in);
@@ -128,7 +128,7 @@ public class TelManagement {
 				flag = false;
 			}
 			default:
-				
+
 			}
 		}
 
